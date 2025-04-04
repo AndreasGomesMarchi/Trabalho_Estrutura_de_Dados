@@ -1,4 +1,4 @@
-//Aqui tem um cabeçalho onde tem as structs, difinir tipo, cabeçaho das informações, etc
+
 #ifndef PROCESSO_H
 #define PROCESSO_H
 
