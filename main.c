@@ -11,8 +11,11 @@ int main(){
         return 1;
     }
 
+    int contClasse = contarPorIdClasse(processos, total, IdClasseDesejado);
+    printf("Quantidade de processos com id_classe %s: %d\n", IdClasseDesejado, contClasse);
 
-
+    int contAssuntos = contarIdAssuntosUnicos(processos, total);
+    printf("Quantidade de id_assuntos unicos: %d\n", contAssuntos);
 
     return 0;
 }
