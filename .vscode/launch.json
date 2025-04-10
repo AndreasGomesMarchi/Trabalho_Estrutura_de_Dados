@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Andreas/OneDrive/Desktop/Vetores(array)pasta/Trabalho_Estrutura_de_Dados",
-      "program": "c:/Users/Andreas/OneDrive/Desktop/Vetores(array)pasta/Trabalho_Estrutura_de_Dados/build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "cwd": "c:/Users/coelh/Desktop/versao2_refatorada_corrigida_final",
+      "program": "c:/Users/coelh/Desktop/versao2_refatorada_corrigida_final/build/Debug/outDebug",
+      "MIMode": "lldb",
+      "miDebuggerPath": "lldb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
